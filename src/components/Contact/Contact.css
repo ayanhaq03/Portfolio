@@ -1,20 +1,18 @@
 .contact-form{
-    padding: 0 2rem 0 2rem;
+    padding: 0 3rem 0 3rem;
     display: flex;
     height: 80vh;
     margin-top: 4rem;
-
       /* scroll */
-  padding-top: 2rem;
+    padding-top: 3rem;
+    margin-left: 250px;
 }
-
 .c-right{
     display: flex;
     justify-content: center;
     position: relative;
     flex: 1;
 }
-
 .c-right>form
 {
     display: flex;
@@ -23,7 +21,6 @@
     align-items: center;
     
 }
-
 .c-right .user{
     width: 20rem;
     height: 2rem;
@@ -33,11 +30,9 @@
     border-radius: 8px;
     font-size: 16px;   
 }
-
 textarea{
     height: 4rem!important;
 }
-
 .c-blur1{
     top: 1rem;
     left: 8rem;
@@ -49,9 +44,10 @@ textarea{
         flex-direction: column;
         gap: 5rem;
         height: 40rem;
+        margin-left: 10px;
     }
     .c-right .user{
         width: 16rem;
     }
 
-}   
+} 
