@@ -102,7 +102,7 @@
     }
    
     .a-title {
-      margin-top: 50px;
+      margin-top: 100px;
     }
     .a-about-texts{
      display: flex;
@@ -112,6 +112,6 @@
   }
 
     .a-right{
-      padding: 20px;
+      padding: 2px;
     }
 }
