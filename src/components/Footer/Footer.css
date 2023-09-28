@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 480px){
   .footer{
-    margin-top: 1px;
+    margin-top: 20px;
   }
   .f-content{
     transform: scale(.5);
