@@ -30,8 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Mohd Ayan Haque</span>
           <span>
-            MERN Stack Developer with high level of experience in web designing
-            and development, producting the Quality work
+          Full Stack Developer with a robust expertise in web design and development, committed to delivering high-quality work.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>

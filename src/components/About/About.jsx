@@ -17,7 +17,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-         I'm a MERN stack developer with over 6 month of experience in building and maintaining high-quality web applications. I have a passion for creating user-friendly and scalable applications that solve real-world problems.
+        As a Full Stack Developer, I specialize in crafting web-based applications with meticulous attention to detail. With a solid grasp of Object-Oriented Programming (OOP) principles and Data Structures and Algorithms (DSA), I'm dedicated to developing user-friendly and scalable solutions that address real-world challenges.
         </p>
         <p className="a-desc">
         I'm proficient in all aspects of the MERN stack, including MongoDB, Express.js, React.js, and Node.js. I also have experience with a variety of other technologies, such as HTML, CSS, JavaScript ,Strapi.

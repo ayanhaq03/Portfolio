@@ -32,7 +32,7 @@ const Services = () => {
           I use the latest technologies and best practices to ensure that your website is fast, secure, and easy to use.
         </spane>
         <a href={resume} download>
-          <button className="button s-button">Download CV</button>
+          <button className="button s-button">Resume</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
       </div>
@@ -59,7 +59,7 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={"Developer"}
-            detail={"Html, Css, JavaScript, React, Nodejs, Express,Strapi,MongoDB"}
+            detail={"Html, Css, JavaScript, React, Nodejs, Express, Strapi,Git  & Github"}
           />
         </motion.div>
         {/* 3rd */}
@@ -72,7 +72,7 @@ const Services = () => {
             emoji={Humble}
             heading={"Programming"}
             detail={
-              "Java,Python ,Object-oriented programming"
+              "Java,Python ,DSA,Object-oriented programming"
             }
             color="rgba(252, 166, 31, 0.45)"
           />
