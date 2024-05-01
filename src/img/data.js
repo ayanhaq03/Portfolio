@@ -13,7 +13,7 @@ export const products = [
     },
     {
       id: 3,
-      img: "https://i.pinimg.com/736x/6c/c8/71/6cc87116208e3152aaa0f81bd81f461e.jpg",
+      img: "https://res.cloudinary.com/dgi2zcs9i/image/upload/v1714544089/Driftify-Home_1_pwk5on.png",
       link: "https://drive.google.com/file/d/1ecARiR9uvn9EptjXp1cz1Y6KHujFHXds/view?usp=drive_link",
     },
    
