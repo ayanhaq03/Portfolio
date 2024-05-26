@@ -9,12 +9,12 @@ export const products = [
     {
       id: 2,
       img: "https://i.pinimg.com/750x/c5/f3/8b/c5f38b93bbdfa0ee0549944526f0df2a.jpg",
-      link: "",
+      link: "https://posterplix-client.vercel.app/",
     },
     {
       id: 3,
       img: "https://res.cloudinary.com/dgi2zcs9i/image/upload/v1714544089/Driftify-Home_1_pwk5on.png",
-      link: "https://drive.google.com/file/d/1ecARiR9uvn9EptjXp1cz1Y6KHujFHXds/view?usp=drive_link",
+      link: "",
     },
    
   ];
